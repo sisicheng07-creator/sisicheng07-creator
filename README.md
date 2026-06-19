@@ -1,14 +1,17 @@
 ## Hi there，I'm Sisi 👋 
 
-**Applied AI Consultant & Builder**
+Applied AI Consultant & Builder
 
 Building practical AI products for enterprise workflows, financial research, and real-world decision making.
 
 ### Current interests:
 
 🏦 Enterprise AI Applications
+
 📈 Financial Research & Options Analytics
+
 🤖 LLM Products & AI Agents
+
 🌏 Cross-border Business Intelligence
 
 Currently collaborating with a hedge fund to explore how AI can augment investment research workflows and market intelligence.
