@@ -18,7 +18,7 @@ Currently collaborating with a hedge fund to explore how AI can augment investme
 
 ### Recent Highlights
 
-🏆 Google AI Hackathon – People's Choice Award
+🏆 Google Deepmind AI Hackathon – 2026 People's Choice Award (Melbourne)
 
 💬 Built an AI assistant that helps users craft thoughtful, high-emotional-intelligence responses for traditional Asian parent conversations
 
