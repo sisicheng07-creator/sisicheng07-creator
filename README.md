@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there，I'm Sisi 👋 
 
-<!--
-**sisicheng07-creator/sisicheng07-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied AI Consultant & Builder
 
-Here are some ideas to get you started:
+Building practical AI products for enterprise workflows, financial research, and real-world decision making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current interests:
+
+🏦 Enterprise AI Applications
+📈 Financial Research & Options Analytics
+🤖 LLM Products & AI Agents
+🌏 Cross-border Business Intelligence
+
+Currently collaborating with a hedge fund to explore how AI can augment investment research workflows and market intelligence.
+
+### Recent Highlights
+
+🏆 Google AI Hackathon – People's Choice Award
+
+💬 Built an AI assistant that helps users craft thoughtful, high-emotional-intelligence responses for traditional Asian parent conversations
+
+📚 Delivered AI and NLP solutions across APAC, supporting organizations including IKEA, DBS, and SAIC
+
+---
+
+### Fun Facts
+
+☕ Coffee-powered builder
+
+📊 Currently building an AI-assisted options monitoring tool
+
+🤝 Always curious about startups, AI products, finance, and global markets
+
